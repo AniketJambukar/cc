@@ -29,6 +29,10 @@ graph = {'A': ['B', 'C'],
 'F': []}
 visited = bfs(graph, [], ['A'])
 print(visited)
+
+
+Assign. 2😎😎
+
 import copy
 from heapq import heappush, heappop
 n = 3
@@ -118,7 +122,12 @@ final = [ [ 1, 2, 3 ],
 [ 0, 7, 4 ] ]
 empty_tile_pos = [ 1, 2 ]
 solve(initial, empty_tile_pos, final)
-swaping assi3g ;
+
+
+
+
+swaping assig.3 😎😎
+
 def selectionSort(array, size):
 for ind in range(size):
 min_index = ind
@@ -133,7 +142,11 @@ size = len(arr)
 selectionSort(arr, size)
 print('The array after sorting in Ascending Order by selection sort is:')
 print(arr)
-queen assig 4:
+
+
+
+queen assig 4:😎😎
+
 print ("Enter the number of queens")
 N = int(input())
 board = [[0]*N for _ in range(N)]
@@ -161,7 +174,12 @@ return False
 N_queens(N)
 for i in board:
 print (i)
-chatbot assg. 5:
+
+
+
+
+chatbot assg. 5:😎😎
+
 def chatbot():
 name = input("Enter your name: ")
 print("Hello " + name + "!")
@@ -178,7 +196,11 @@ print(answers[questions.index(question)])
 else:
 print("I don't understand.")
 chatbot()
-asssig 5A chatbot:
+
+
+
+asssig 5A chatbot: 😎😎
+
 def greet(bot_name, birth_year):
 print("Hello! My name is {0}.".format(bot_name))
 print("I was created in {0}.".format(birth_year))
